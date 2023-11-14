@@ -27,4 +27,4 @@ lambda = [0.583  0.5812]
 q = [[0.002 -0.0025 0.0037 0.4 -0.1515 0.4]
      [0.002 -0.0318 0.0507 0.4 -0.1356 0.3935]]
 ```
-![alt text](https://github.com/lukasbrunke/m_cbc/blob/main/figures/jet_state_trajectories.png "Results from original paper")
+![alt text](https://github.com/lukasbrunke/m_cbc/blob/main/figures/jet_state_trajectories_paper.png "Results from original paper")
