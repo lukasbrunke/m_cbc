@@ -1,0 +1,25 @@
+# Activate plotting
+plotting = true
+
+# Use results from the paper instead of the implementation - Only available for N == 2
+use_paper_results = false
+
+# Set the number of partitions/CBFs
+N = 2  
+# N = 1
+
+# The number of data state space samples
+M = 40000
+# M = 400
+
+# The coverage parameter
+eps = 0.01
+
+# Optimize over the mu_s or keep them fixed
+mu_is_opti = true
+
+# Use the results from the paper as a warm start
+use_init = false
+
+# Add a constraint eta <= 0
+has_non_positive_constraint = false
